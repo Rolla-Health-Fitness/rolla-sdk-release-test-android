@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.mapbox.maps</groupId>
       <artifactId>android-ndk27</artifactId>
-      <version>11.18.0</version>
+      <version>11.19.0</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
