@@ -42,11 +42,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0.aar",
           "url": "mapbox_maps_flutter_release-1.0.aar",
-          "size": 1100089,
-          "sha512": "1e82ab8e50a72bcdbfcc4256a0c09b21be078e3e5a05a81f705cc8d31d7534235adfb79f4437b1c0dbbc7c7ace059372f33d947219b4380a2f8ab454fc23ef93",
-          "sha256": "cc0e489900e7330c13b932b4500fb9344e2ba3d20fc246880fca9354a0798b7a",
-          "sha1": "c310eb1ec71a33fb50a1d4af6888e74b93ee70e9",
-          "md5": "725d78fa90cd80587bf54f355575dde2"
+          "size": 1100824,
+          "sha512": "c69039aac974f663f076ecb3012f72b5777887c96095ff878e9ea1ea57120186ff5d32d60274b46c592f8b3804fe40a1f6cd639e2cf55b2994cad145dff2456c",
+          "sha256": "b2b8108647408e08bf9e5ed3716cf9695b5b0712f11f72ad3d9e1596985a0053",
+          "sha1": "47889cc85eb28707db18e62e36584091c5d71e42",
+          "md5": "87cefa7d7e812fcf991dc75725fecdb2"
         }
       ]
     },
@@ -106,11 +106,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0.aar",
           "url": "mapbox_maps_flutter_release-1.0.aar",
-          "size": 1100089,
-          "sha512": "1e82ab8e50a72bcdbfcc4256a0c09b21be078e3e5a05a81f705cc8d31d7534235adfb79f4437b1c0dbbc7c7ace059372f33d947219b4380a2f8ab454fc23ef93",
-          "sha256": "cc0e489900e7330c13b932b4500fb9344e2ba3d20fc246880fca9354a0798b7a",
-          "sha1": "c310eb1ec71a33fb50a1d4af6888e74b93ee70e9",
-          "md5": "725d78fa90cd80587bf54f355575dde2"
+          "size": 1100824,
+          "sha512": "c69039aac974f663f076ecb3012f72b5777887c96095ff878e9ea1ea57120186ff5d32d60274b46c592f8b3804fe40a1f6cd639e2cf55b2994cad145dff2456c",
+          "sha256": "b2b8108647408e08bf9e5ed3716cf9695b5b0712f11f72ad3d9e1596985a0053",
+          "sha1": "47889cc85eb28707db18e62e36584091c5d71e42",
+          "md5": "87cefa7d7e812fcf991dc75725fecdb2"
         }
       ]
     },
@@ -126,11 +126,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0-sources.jar",
           "url": "mapbox_maps_flutter_release-1.0-sources.jar",
-          "size": 162231,
-          "sha512": "80080e10b0bba67782eb7c68520e8e2d5e99e8e70976b58c7368b821712e577c5b1e1d9949917548ff91995e5fe40c9f72e2eb35dea254e31886fabf62fc5f63",
-          "sha256": "0fd663f4cf47e85a4ed4f546617c7068a1d8c8ad0c97573c64f0b46068563abd",
-          "sha1": "fbaf72b1e1de24137cbb987e018e988c8f9cee51",
-          "md5": "ba3a4b098f2651205f6e576ef3a8fec0"
+          "size": 162297,
+          "sha512": "0d627a84b3b247e14ee8b62f13fa0c96453700b4d208f2d43d77feb682af5d0a0e6ba2c03d70fd7f27f740105c2c02d4c7864c22a843ad81cbbe79577a0e1aae",
+          "sha256": "14b5e0114c386ae398179c0540167ef7e6f958976ca8e894946feeb557c4bd7e",
+          "sha1": "d900c0b065052ca46c6bda4f4f7b34aaf0d456a2",
+          "md5": "93bcdd2bb45ee374e32154361e43a9e1"
         }
       ]
     },
