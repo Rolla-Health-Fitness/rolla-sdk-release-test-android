@@ -35,11 +35,11 @@
         {
           "name": "path_provider_android_release-1.0.aar",
           "url": "path_provider_android_release-1.0.aar",
-          "size": 10347,
-          "sha512": "5bbeeb17d2629753c93208965e80aa883ceea5d10c038c637fba208f037da74e32da0503e698aadda74aafe58ff2c91bcd459def512b13fa410ff9ff50619349",
-          "sha256": "1c4a04ceebfc108e36907f514101fc21bcf14641b139ab09fa542947d339e49f",
-          "sha1": "00f50fe45dabc06fa1705eff3cda976b445d2a48",
-          "md5": "229bf13ebbd79af8ebc110a2d4daafbd"
+          "size": 10348,
+          "sha512": "6a43ed58cff92c3618ccf7a135cfd8ec8aa21aecf6616711d63ebb12e9193989dbb3b52a49a97353b62a83aea41b77a5376a8c1242a15e3bdfa7d34f1ec9b194",
+          "sha256": "af727d5617372fe24ef8e97e647e959b9a043b81c09187ad8348b0f143f79f3c",
+          "sha1": "c38e18d9487eb83826612d3dbc0f70bb2eb6a19f",
+          "md5": "f17cd19b3ac56ed515cd22ffaf905381"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "path_provider_android_release-1.0.aar",
           "url": "path_provider_android_release-1.0.aar",
-          "size": 10347,
-          "sha512": "5bbeeb17d2629753c93208965e80aa883ceea5d10c038c637fba208f037da74e32da0503e698aadda74aafe58ff2c91bcd459def512b13fa410ff9ff50619349",
-          "sha256": "1c4a04ceebfc108e36907f514101fc21bcf14641b139ab09fa542947d339e49f",
-          "sha1": "00f50fe45dabc06fa1705eff3cda976b445d2a48",
-          "md5": "229bf13ebbd79af8ebc110a2d4daafbd"
+          "size": 10348,
+          "sha512": "6a43ed58cff92c3618ccf7a135cfd8ec8aa21aecf6616711d63ebb12e9193989dbb3b52a49a97353b62a83aea41b77a5376a8c1242a15e3bdfa7d34f1ec9b194",
+          "sha256": "af727d5617372fe24ef8e97e647e959b9a043b81c09187ad8348b0f143f79f3c",
+          "sha1": "c38e18d9487eb83826612d3dbc0f70bb2eb6a19f",
+          "md5": "f17cd19b3ac56ed515cd22ffaf905381"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "path_provider_android_release-1.0-javadoc.jar",
           "url": "path_provider_android_release-1.0-javadoc.jar",
-          "size": 294210,
-          "sha512": "5c1c209c87bdc4ac645e33934792b4369d6d4eba803ee70156387c68b31eed2e1f40d4413ecec936c85108c0cbec48ef1406a9b0faa57522f7dfb68fa3ef987c",
-          "sha256": "e8dd254903ec0b67efc02c831b266731901e3432e81a03164d0c0274ad04e49f",
-          "sha1": "3214488dca462646b4ec305c0c1542e25e00f114",
-          "md5": "7233980bbe51b92a466f07ec3fd6edfc"
+          "size": 294213,
+          "sha512": "a2f899778f0dd05b1cbe4e9ab2d7b34d1e283ebf6c1c50d1d944b9aaa322edbcee99e599ce70e5d7c9fc07fd6446b5b7d72374c7e264b37c1ed789e6aabcaf64",
+          "sha256": "bc00acdb135876ed8359fd6f92307ffc2f2531d7c80bf1cc72158637016cd853",
+          "sha1": "a6ba9feb95714a0d6d0f8637c40dced2a8458d30",
+          "md5": "f53c9299569bf88bf654746fc341293a"
         }
       ]
     }

@@ -104,11 +104,11 @@
         {
           "name": "permission_handler_android_release-1.0-javadoc.jar",
           "url": "permission_handler_android_release-1.0-javadoc.jar",
-          "size": 264567,
-          "sha512": "e16a3fedd6d06efc5f6ae686989b246018f72c53c86f6c7f74d57e4a8bc169bf780e00b76af9d300794cb83e78afb6389e040e12a924be65d47761ec98062516",
-          "sha256": "6b27f009f46ab8c11b475813ceb8662e09701e206ce7e8f8325a11c61fb956f9",
-          "sha1": "df9ef2898893c0c35a09e087e1aa882cbf4f4b91",
-          "md5": "983a00bfcb23e9b347ca765bf5640867"
+          "size": 264570,
+          "sha512": "3be6887e1c3eb6f4f5cc3c29d78d6fc7e76aa119efbe66eddc845188e75d33b44b42e61299641a6859221c9d35855a1e2f60318a79a1717fc60fedcf3e4aca06",
+          "sha256": "93e2c4a268e21e2976e08cb0730b11145ae6c5ed6cd62d38110b22c722a3440c",
+          "sha1": "25381a46620546bf71b0cbc8dee1933cc4558d5a",
+          "md5": "53a8a2bb6bbaa57d24380ae1dd3da35c"
         }
       ]
     }
