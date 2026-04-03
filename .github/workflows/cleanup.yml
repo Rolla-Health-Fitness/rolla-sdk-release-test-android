@@ -30,13 +30,23 @@ jobs:
             echo "No maven artifacts to clean."
           fi
 
+      - name: Reset README
+        run: |
+          cat > README.md << 'EOF'
+          # Rolla SDK — Android (Test)
+
+          This is the test release repository. It has been cleaned up by the weekly cleanup workflow.
+
+          No version is currently available. The next test release will populate this repo.
+          EOF
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           if ! git diff --staged --quiet; then
-            git commit -m "Cleanup: remove accumulated Maven artifacts"
+            git commit -m "Cleanup: remove accumulated Maven artifacts and reset README"
             git push origin dev
             echo "Pushed cleanup commit."
           else
