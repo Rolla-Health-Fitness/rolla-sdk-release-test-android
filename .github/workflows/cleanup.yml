@@ -1,0 +1,44 @@
+name: Cleanup Maven Artifacts
+
+on:
+  schedule:
+    # Every Sunday at 6:00 AM UTC
+    - cron: '0 6 * * 0'
+  workflow_dispatch:
+
+jobs:
+  cleanup-maven:
+    name: Remove Accumulated Maven Artifacts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: dev
+
+      - name: Remove maven directory
+        run: |
+          if [ -d "maven" ] && [ "$(ls -A maven 2>/dev/null)" ]; then
+            echo "Found maven artifacts:"
+            du -sh maven/
+            rm -rf maven/
+            echo "Maven directory removed."
+          else
+            echo "No maven artifacts to clean."
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "Cleanup: remove accumulated Maven artifacts"
+            git push origin dev
+            echo "Pushed cleanup commit."
+          else
+            echo "Nothing to clean up."
+          fi
