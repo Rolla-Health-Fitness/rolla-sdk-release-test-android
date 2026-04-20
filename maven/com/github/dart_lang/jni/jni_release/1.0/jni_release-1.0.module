@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.dart_lang.jni",
+    "module": "jni_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "jni_release-1.0.aar",
+          "url": "jni_release-1.0.aar",
+          "size": 104832,
+          "sha512": "5a7317f35ec6dc4fcaa5e76ed920c35b0a2db4a8418e99b4aac173bb4f977b408dad74b7683fd8d707130fa3bc240a33763c8848df8ae11ae0af7782fd79b733",
+          "sha256": "d1427b30230deaf65e363d118f67d2937beae45a7377797cb6b4673ffcbf29db",
+          "sha1": "f08519e632c88595b52ee9c806144084a767268f",
+          "md5": "241ae6d8948b368c65197fac7c9647f8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "jni_release-1.0.aar",
+          "url": "jni_release-1.0.aar",
+          "size": 104832,
+          "sha512": "5a7317f35ec6dc4fcaa5e76ed920c35b0a2db4a8418e99b4aac173bb4f977b408dad74b7683fd8d707130fa3bc240a33763c8848df8ae11ae0af7782fd79b733",
+          "sha256": "d1427b30230deaf65e363d118f67d2937beae45a7377797cb6b4673ffcbf29db",
+          "sha1": "f08519e632c88595b52ee9c806144084a767268f",
+          "md5": "241ae6d8948b368c65197fac7c9647f8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jni_release-1.0-sources.jar",
+          "url": "jni_release-1.0-sources.jar",
+          "size": 5459,
+          "sha512": "61c8d0b11708383673e2d967abe5948df4f9f1c20f77852bfc8e4da61a83bb5c2e7561a02692dc183a64b4f842555d66ebd142d02b6295313fcda91f9e8e0c15",
+          "sha256": "0762cdfe1e25701b53f0e55fde69135e74f25328f4b1c60e4778701833bfab6e",
+          "sha1": "09a60f323f1b590e7921cd33327514fe4d916cb1",
+          "md5": "3cf8aa129d418b4388b02cea9ff9819b"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "jni_release-1.0-javadoc.jar",
+          "url": "jni_release-1.0-javadoc.jar",
+          "size": 283164,
+          "sha512": "aea27703dddec7ef3be32c4a714433c92a5702b85a0036cf0ce1be93a7096c6176a3e4f7e0ab9f9ccf409f955ccfc640ebdeee6f8bd16bee90fc7e41ddaeb81c",
+          "sha256": "e0c04ab44e2f268b05397ec5b2b06f053981c2d671f7b0daff333559a2d4ac64",
+          "sha1": "973ea25e7c52821ddb73e0394ace85c1b8904588",
+          "md5": "289057f698f123795f7975ffd328deb5"
+        }
+      ]
+    }
+  ]
+}

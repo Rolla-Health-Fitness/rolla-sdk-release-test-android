@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.lib.flutter_blue_plus",
+    "module": "flutter_blue_plus_android_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_blue_plus_android_release-1.0.aar",
+          "url": "flutter_blue_plus_android_release-1.0.aar",
+          "size": 43793,
+          "sha512": "02bd894ea9c4c16918c9ed3a87c5b1213c8e323ffa95d0f06fc7a54ffd65047b8da3bd89b7f9555b34cad5a47104b7e23029e2649fdec9d326f67b01efc5c98c",
+          "sha256": "f005499030de3366935cc77b12839cfbe1b10b23503180971c15d22824e31aee",
+          "sha1": "c490d8b0e0862d68d62daa92e6c831023a6ddd1b",
+          "md5": "a16cfc136a0e1d63d6475680a691653e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_blue_plus_android_release-1.0.aar",
+          "url": "flutter_blue_plus_android_release-1.0.aar",
+          "size": 43793,
+          "sha512": "02bd894ea9c4c16918c9ed3a87c5b1213c8e323ffa95d0f06fc7a54ffd65047b8da3bd89b7f9555b34cad5a47104b7e23029e2649fdec9d326f67b01efc5c98c",
+          "sha256": "f005499030de3366935cc77b12839cfbe1b10b23503180971c15d22824e31aee",
+          "sha1": "c490d8b0e0862d68d62daa92e6c831023a6ddd1b",
+          "md5": "a16cfc136a0e1d63d6475680a691653e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_blue_plus_android_release-1.0-sources.jar",
+          "url": "flutter_blue_plus_android_release-1.0-sources.jar",
+          "size": 24710,
+          "sha512": "78271714715c60d367fbaf5d6db234dd3ac2886076f12eaaef8a7905b624f07e3b128dbcfb564e914bd8d3587a452f7d54ba2359016690587ee2ff696ecff188",
+          "sha256": "aca28f70dcbbe9896bcb0d1145cb13da1210fa0b01fab7ca75eee0127d1de0c4",
+          "sha1": "2e217240cc7fe4235483f2d72dd06765da78ee47",
+          "md5": "395bb4b7bc65af80704babe858f08f32"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_blue_plus_android_release-1.0-javadoc.jar",
+          "url": "flutter_blue_plus_android_release-1.0-javadoc.jar",
+          "size": 265493,
+          "sha512": "395650fdb8b52ed25dc2439b8747bf105b2b74996426c5a4146b2bd8b9e86b3466337470ae8b318df86c246620e30162b37baa58dfea6e34d6272d0b30d8c6c8",
+          "sha256": "a96891fc34cb46d147c1bae4759b93f483958c8e1ff927600eededaa224ff063",
+          "sha1": "4cf3a5731771c6c055089bc911ca534ea55e018a",
+          "md5": "69be252c0a42bd57601a56392cd4640f"
+        }
+      ]
+    }
+  ]
+}
