@@ -2,7 +2,7 @@
 
 Android distribution repository for the Rolla Flutter SDK. Artifacts are served as a Maven repository via GitHub Pages.
 
-**Latest version:** `0.1.1`
+**Latest version:** `0.1.2`
 
 ---
 
@@ -43,7 +43,7 @@ dependencies {
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
 
     // Rolla SDK
-    implementation("com.rolla.sdk:android_release:0.1.1")
+    implementation("com.rolla.sdk:android_release:0.1.2")
 }
 ```
 
@@ -67,4 +67,4 @@ Click "Sync Now" in the Gradle notification bar, or run:
 
 ---
 
-For detailed integration instructions see the [Android Integration Guide](https://github.com/Rolla-Health-Fitness/rolla-sdk-documentation/tree/main/android).
+For detailed integration instructions see the [Android Integration Guide](https://github.com/Rolla-Health-Fitness/rolla-sdk-documentation/tree/dev/android).
