@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "dev.fluttercommunity.plus.wakelock",
+    "module": "wakelock_plus_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wakelock_plus_release-1.0.aar",
+          "url": "wakelock_plus_release-1.0.aar",
+          "size": 18235,
+          "sha512": "7f2730a3dba720d022f633a6e86d89001c0de439a601b1db51349f71fbb1a943890c5747a6df98a19822e70148128ffffc91e6b254a097ea269c254caffb829e",
+          "sha256": "d02fcfd0cf82cbaeb44c2dcd19bd78da5d0f616a31299e719785785941e5ed91",
+          "sha1": "e04ced10099b284d3070851fba137ddc8c8013fe",
+          "md5": "e67c947dcdab9b227ad242e529c945b9"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "dev.fluttercommunity.plus.packageinfo",
+          "module": "package_info_plus_release",
+          "version": {
+            "requires": "1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "wakelock_plus_release-1.0.aar",
+          "url": "wakelock_plus_release-1.0.aar",
+          "size": 18235,
+          "sha512": "7f2730a3dba720d022f633a6e86d89001c0de439a601b1db51349f71fbb1a943890c5747a6df98a19822e70148128ffffc91e6b254a097ea269c254caffb829e",
+          "sha256": "d02fcfd0cf82cbaeb44c2dcd19bd78da5d0f616a31299e719785785941e5ed91",
+          "sha1": "e04ced10099b284d3070851fba137ddc8c8013fe",
+          "md5": "e67c947dcdab9b227ad242e529c945b9"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wakelock_plus_release-1.0-sources.jar",
+          "url": "wakelock_plus_release-1.0-sources.jar",
+          "size": 3927,
+          "sha512": "2e3d36b72512629fa640f142557001c110f04f5577ce2891025ccdd9029e820a03ed0de72329e3afd74e468a18935a8deb658f9975035bb1543cd556676b7e1a",
+          "sha256": "6f54ee823534a6c37029850a90bf6afa1c5565bee4dba8fc474a708fe4956a98",
+          "sha1": "db1ceb221070c8e380e23b58af20d41589ddfd40",
+          "md5": "d5893351a561464b1347c27e79b8368e"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "wakelock_plus_release-1.0-javadoc.jar",
+          "url": "wakelock_plus_release-1.0-javadoc.jar",
+          "size": 310231,
+          "sha512": "3fb7c4d762b193a2568d922594110c1e093d557c473e3fe0dc31d62fe3d125b88a995543d18226ad415404e60f09fe4ef32d0c78bc3a6e2a19481b24c7b6ee16",
+          "sha256": "4320ea626c0aa54c583b070665477b6e0601092a23dbda29b50d3a980dff6a9e",
+          "sha1": "f3aa3a1da1d1b724a46bb0377c39e5eb6679c969",
+          "md5": "77239cee001296b6d7ab91b01be16fd6"
+        }
+      ]
+    }
+  ]
+}

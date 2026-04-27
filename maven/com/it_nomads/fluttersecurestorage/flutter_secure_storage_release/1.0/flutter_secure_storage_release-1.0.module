@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.it_nomads.fluttersecurestorage",
+    "module": "flutter_secure_storage_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_secure_storage_release-1.0.aar",
+          "url": "flutter_secure_storage_release-1.0.aar",
+          "size": 80317,
+          "sha512": "1ef5e6947b8c8f1334923bfb09eed263c5a26370a6c827aa340afa230e5c3c52350798ed2a2d756ae3130d6f01314c7d144bdec6bf3de021f3d94da02c59e70a",
+          "sha256": "b97751a9de5ef9f424c462abce34838b1752941563767bbe84fd6cf3e5e28169",
+          "sha1": "336da0d7cbae60bca14c49f902817ed7b34306b5",
+          "md5": "4edb8f1aa128bd9448c417f5638819c3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        },
+        {
+          "group": "com.google.crypto.tink",
+          "module": "tink-android",
+          "version": {
+            "requires": "1.19.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "flutter_secure_storage_release-1.0.aar",
+          "url": "flutter_secure_storage_release-1.0.aar",
+          "size": 80317,
+          "sha512": "1ef5e6947b8c8f1334923bfb09eed263c5a26370a6c827aa340afa230e5c3c52350798ed2a2d756ae3130d6f01314c7d144bdec6bf3de021f3d94da02c59e70a",
+          "sha256": "b97751a9de5ef9f424c462abce34838b1752941563767bbe84fd6cf3e5e28169",
+          "sha1": "336da0d7cbae60bca14c49f902817ed7b34306b5",
+          "md5": "4edb8f1aa128bd9448c417f5638819c3"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_secure_storage_release-1.0-sources.jar",
+          "url": "flutter_secure_storage_release-1.0-sources.jar",
+          "size": 40762,
+          "sha512": "daaf33723538bec343366b74b9bdea6a7d77806e08bddc0a8f599581070dfad6a3bdf26f295a6aeee0690a2b2eec98568be2aea964eb8fc3015403de9aa30d57",
+          "sha256": "dcae543b4ad127eeda9b77ba74ba293be96d799f3fb8cfcaf081690815aa0aff",
+          "sha1": "eb7ea6a0db1c8d724dad3874b6ead692e40cf44f",
+          "md5": "30c1a5d2618b53fea0b6d49acc2fb3e8"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "flutter_secure_storage_release-1.0-javadoc.jar",
+          "url": "flutter_secure_storage_release-1.0-javadoc.jar",
+          "size": 353823,
+          "sha512": "a73b4ba2d2168b731adad7647afd93c265e47d4cded6160f74a5a2da15feb880843d115140aa19cda2d361166fc606f6696102fd744179faa8df978e1360b121",
+          "sha256": "045cbfa68cd531df36834ba453363229a723ad4f8f2b53afdc083b82d3fdeea0",
+          "sha1": "21a857a7f1d3178690e05338bc478378c80f3bbb",
+          "md5": "71e95b7cdbf5edfcf4a4a97f9912ab1c"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tekartik.sqflite",
+    "module": "sqflite_android_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_android_release-1.0.aar",
+          "url": "sqflite_android_release-1.0.aar",
+          "size": 43037,
+          "sha512": "c1e960da1af39d2c001b55b698c7b7ce3b5bd4c6e8f03b69102056aed13ecac250a97c1abfd0b69cf1b1742f56227a98426b9fd1dae17ed89130b95ca94f8449",
+          "sha256": "4796e19b1f068db0547ddc47f83ed52dc9156e76f90efca4420209c83560e903",
+          "sha1": "2f6ce102aa92242495b68d12c5f42f0816a02c5d",
+          "md5": "b21daafb9f18fbc2f2417fbbbb780990"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_android_release-1.0.aar",
+          "url": "sqflite_android_release-1.0.aar",
+          "size": 43037,
+          "sha512": "c1e960da1af39d2c001b55b698c7b7ce3b5bd4c6e8f03b69102056aed13ecac250a97c1abfd0b69cf1b1742f56227a98426b9fd1dae17ed89130b95ca94f8449",
+          "sha256": "4796e19b1f068db0547ddc47f83ed52dc9156e76f90efca4420209c83560e903",
+          "sha1": "2f6ce102aa92242495b68d12c5f42f0816a02c5d",
+          "md5": "b21daafb9f18fbc2f2417fbbbb780990"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqflite_android_release-1.0-sources.jar",
+          "url": "sqflite_android_release-1.0-sources.jar",
+          "size": 23663,
+          "sha512": "8fab4715d7e3d96747ef1de92c03dff003c7f72e23c9a2bada2ac1a0daad359c22677107af7f95eed76447893685131f72c8c4575f646eb6db0cd0d6960f5c63",
+          "sha256": "a51229e1462df34685f523fbb152893e17abfe4811849e1295d6c0bf25477e3e",
+          "sha1": "a594f17941e467782009913a999b4812257c41f5",
+          "md5": "5f4db26adb3c92e861735d64021ac12f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqflite_android_release-1.0-javadoc.jar",
+          "url": "sqflite_android_release-1.0-javadoc.jar",
+          "size": 339859,
+          "sha512": "7d6d90f3c02f59f075f78449c40ba187cb3dc5f080304f0dd22fb857d365e193c044921e7520957a4a4ebec94cb654c432437294aa0f9342f88384b725c38475",
+          "sha256": "aaa5f75308e6452858eaf2352a458dac93495b50a92e33aa16c20135dec79442",
+          "sha1": "1aa2a4fe99b9ae8e03d099bffc0e944bc17f4c06",
+          "md5": "1692532db42f06b7987620ec14f0948e"
+        }
+      ]
+    }
+  ]
+}
