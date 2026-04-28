@@ -1,6 +1,6 @@
 # Maven Version Mapping
 
-Rolla SDK Version: 0.1.1
+Rolla SDK Version: 0.1.2
 
 To use this version in your Android project:
 ```kotlin
@@ -12,12 +12,12 @@ android {
 
 dependencies {
     // Use android_release - it includes flutter_release (Dart code) as a transitive dependency
-    implementation("com.rolla.sdk:android_release:0.1.1")
+    implementation("com.rolla.sdk:android_release:0.1.2")
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.4")
 }
 ```
 
-Note: Rolla SDK 0.1.1 is built with Flutter 3.41.8, whose `flutter.ndkVersion` resolves to Android NDK `28.2.13676358`. Host apps using Flutter's default NDK do not need extra configuration; apps that manually pin an older NDK should update it.
+Note: Rolla SDK 0.1.2 is built with Flutter 3.41.8, whose `flutter.ndkVersion` resolves to Android NDK `28.2.13676358`. Host apps using Flutter's default NDK do not need extra configuration; apps that manually pin an older NDK should update it.
 
 ## What's in each artifact?
 - `android_release`: Native Android code (Bluetooth handlers, Pigeon APIs, etc.)
@@ -33,7 +33,7 @@ Browse available versions at: https://rolla-health-fitness.github.io/rolla-sdk-r
 1. Check the latest version in `maven-metadata.xml`
 2. Update your `build.gradle.kts`:
    ```kotlin
-   implementation("com.rolla.sdk:android_release:0.1.1")
+   implementation("com.rolla.sdk:android_release:0.1.2")
    ```
 3. Sync Gradle and rebuild
 
@@ -41,7 +41,7 @@ Browse available versions at: https://rolla-health-fitness.github.io/rolla-sdk-r
 
 ```toml
 [versions]
-rolla-sdk = "0.1.1"
+rolla-sdk = "0.1.2"
 
 [libraries]
 rolla-sdk = { group = "com.rolla.sdk", name = "android_release", version.ref = "rolla-sdk" }

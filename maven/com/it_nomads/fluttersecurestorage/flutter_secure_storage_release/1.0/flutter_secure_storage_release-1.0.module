@@ -35,11 +35,11 @@
         {
           "name": "flutter_secure_storage_release-1.0.aar",
           "url": "flutter_secure_storage_release-1.0.aar",
-          "size": 80317,
-          "sha512": "1ef5e6947b8c8f1334923bfb09eed263c5a26370a6c827aa340afa230e5c3c52350798ed2a2d756ae3130d6f01314c7d144bdec6bf3de021f3d94da02c59e70a",
-          "sha256": "b97751a9de5ef9f424c462abce34838b1752941563767bbe84fd6cf3e5e28169",
-          "sha1": "336da0d7cbae60bca14c49f902817ed7b34306b5",
-          "md5": "4edb8f1aa128bd9448c417f5638819c3"
+          "size": 80579,
+          "sha512": "fdfc872654b3acd836bb201c8a452e9616874b687379dcb176ab7368d4c987bfeaee8ea970ae497e9566fafbb6dce20033753ac7de370ecb1a08b61d3c9d28e7",
+          "sha256": "ec5e3f58cfcb4501cb0964861fc079214c7eb9935fd1a0eac4a0f7ebcaf0a008",
+          "sha1": "329edd211ed29c35dcc36475245bb92ba820f77e",
+          "md5": "a8287c2988fcb280958299455a6eed61"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "flutter_secure_storage_release-1.0.aar",
           "url": "flutter_secure_storage_release-1.0.aar",
-          "size": 80317,
-          "sha512": "1ef5e6947b8c8f1334923bfb09eed263c5a26370a6c827aa340afa230e5c3c52350798ed2a2d756ae3130d6f01314c7d144bdec6bf3de021f3d94da02c59e70a",
-          "sha256": "b97751a9de5ef9f424c462abce34838b1752941563767bbe84fd6cf3e5e28169",
-          "sha1": "336da0d7cbae60bca14c49f902817ed7b34306b5",
-          "md5": "4edb8f1aa128bd9448c417f5638819c3"
+          "size": 80579,
+          "sha512": "fdfc872654b3acd836bb201c8a452e9616874b687379dcb176ab7368d4c987bfeaee8ea970ae497e9566fafbb6dce20033753ac7de370ecb1a08b61d3c9d28e7",
+          "sha256": "ec5e3f58cfcb4501cb0964861fc079214c7eb9935fd1a0eac4a0f7ebcaf0a008",
+          "sha1": "329edd211ed29c35dcc36475245bb92ba820f77e",
+          "md5": "a8287c2988fcb280958299455a6eed61"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "flutter_secure_storage_release-1.0-javadoc.jar",
           "url": "flutter_secure_storage_release-1.0-javadoc.jar",
-          "size": 353823,
-          "sha512": "a73b4ba2d2168b731adad7647afd93c265e47d4cded6160f74a5a2da15feb880843d115140aa19cda2d361166fc606f6696102fd744179faa8df978e1360b121",
-          "sha256": "045cbfa68cd531df36834ba453363229a723ad4f8f2b53afdc083b82d3fdeea0",
-          "sha1": "21a857a7f1d3178690e05338bc478378c80f3bbb",
-          "md5": "71e95b7cdbf5edfcf4a4a97f9912ab1c"
+          "size": 353824,
+          "sha512": "419bdc9a4c9bd3c2b545d2d0092002a1e1eeac266efd3a4a22947cc08ef6ab9e063ac6f8aa4afb99b5ab6626312af3774f623ced353498de16709d93be523bf8",
+          "sha256": "79077db39d801bf08f828e0adc7c7e42fd71b7ca77d5194d50a7936aebdff3c2",
+          "sha1": "fb4c724e0ccd06b7a6118458dbe6acdb9eb010d6",
+          "md5": "5998b70d945db819a469caa5965c87e6"
         }
       ]
     }

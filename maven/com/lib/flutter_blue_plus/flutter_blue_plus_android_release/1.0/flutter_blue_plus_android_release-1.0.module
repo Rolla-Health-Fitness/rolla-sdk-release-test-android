@@ -35,11 +35,11 @@
         {
           "name": "flutter_blue_plus_android_release-1.0.aar",
           "url": "flutter_blue_plus_android_release-1.0.aar",
-          "size": 43793,
-          "sha512": "02bd894ea9c4c16918c9ed3a87c5b1213c8e323ffa95d0f06fc7a54ffd65047b8da3bd89b7f9555b34cad5a47104b7e23029e2649fdec9d326f67b01efc5c98c",
-          "sha256": "f005499030de3366935cc77b12839cfbe1b10b23503180971c15d22824e31aee",
-          "sha1": "c490d8b0e0862d68d62daa92e6c831023a6ddd1b",
-          "md5": "a16cfc136a0e1d63d6475680a691653e"
+          "size": 44227,
+          "sha512": "d393ef0c5b30530fcf022de1733ffe2d904a42d5f5b240a6e1ebce1e45149555afabc8f93258f0d3dd4c80abb3a4e575d92815972648f9cf490b2583f37ecc66",
+          "sha256": "b03b4edc25c91fa1edc949d739fc63e17c31d582087154f4011e80e26c4a95f1",
+          "sha1": "01ade7506c411ce6ef234ccaf0d003807c5fe93c",
+          "md5": "b6e5ff5e505e9b1eb07ee6c3eddeb23d"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "flutter_blue_plus_android_release-1.0.aar",
           "url": "flutter_blue_plus_android_release-1.0.aar",
-          "size": 43793,
-          "sha512": "02bd894ea9c4c16918c9ed3a87c5b1213c8e323ffa95d0f06fc7a54ffd65047b8da3bd89b7f9555b34cad5a47104b7e23029e2649fdec9d326f67b01efc5c98c",
-          "sha256": "f005499030de3366935cc77b12839cfbe1b10b23503180971c15d22824e31aee",
-          "sha1": "c490d8b0e0862d68d62daa92e6c831023a6ddd1b",
-          "md5": "a16cfc136a0e1d63d6475680a691653e"
+          "size": 44227,
+          "sha512": "d393ef0c5b30530fcf022de1733ffe2d904a42d5f5b240a6e1ebce1e45149555afabc8f93258f0d3dd4c80abb3a4e575d92815972648f9cf490b2583f37ecc66",
+          "sha256": "b03b4edc25c91fa1edc949d739fc63e17c31d582087154f4011e80e26c4a95f1",
+          "sha1": "01ade7506c411ce6ef234ccaf0d003807c5fe93c",
+          "md5": "b6e5ff5e505e9b1eb07ee6c3eddeb23d"
         }
       ]
     },
