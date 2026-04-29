@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "geolocator_android_release-1.0.aar",
           "url": "geolocator_android_release-1.0.aar",
-          "size": 58749,
-          "sha512": "1c35fd0f361c1a4071057efd3003d6da92bd5d2b6ac1c3b7383b8c4cf14149305a4723975bff87d78d190d68bd204f99c683131a4e84a1135c5a589ee588d146",
-          "sha256": "1dbce91637234dbbdb6097033502652c944115a07fd3b18e8992760029aeef1f",
-          "sha1": "3b8db6417e5fd3b3c570c7767d937c691b02ec04",
-          "md5": "7a752ec1a4b50482648204609031d285"
+          "size": 58748,
+          "sha512": "7ddbcec3fe27cfd75137ae4c2461913ae2559cc821d3a1c6ff69ae66b25e8af03b680751fbdf82965ce957c4514250aaf3ed35fece7dae27ba7a2038f63604d2",
+          "sha256": "3cef117b22363184446ffd6225cee895129cff3109a9a46b42c14ef7225095c9",
+          "sha1": "c1248d53596050746a4653d03a597bdf007e6328",
+          "md5": "0df6da1473dca9a8c1e03e0ef5c91cf2"
         }
       ]
     },
@@ -56,7 +56,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
@@ -70,7 +70,7 @@
           "group": "androidx.core",
           "module": "core",
           "version": {
-            "requires": "1.16.0"
+            "requires": "1.13.0"
           }
         }
       ],
@@ -78,11 +78,11 @@
         {
           "name": "geolocator_android_release-1.0.aar",
           "url": "geolocator_android_release-1.0.aar",
-          "size": 58749,
-          "sha512": "1c35fd0f361c1a4071057efd3003d6da92bd5d2b6ac1c3b7383b8c4cf14149305a4723975bff87d78d190d68bd204f99c683131a4e84a1135c5a589ee588d146",
-          "sha256": "1dbce91637234dbbdb6097033502652c944115a07fd3b18e8992760029aeef1f",
-          "sha1": "3b8db6417e5fd3b3c570c7767d937c691b02ec04",
-          "md5": "7a752ec1a4b50482648204609031d285"
+          "size": 58748,
+          "sha512": "7ddbcec3fe27cfd75137ae4c2461913ae2559cc821d3a1c6ff69ae66b25e8af03b680751fbdf82965ce957c4514250aaf3ed35fece7dae27ba7a2038f63604d2",
+          "sha256": "3cef117b22363184446ffd6225cee895129cff3109a9a46b42c14ef7225095c9",
+          "sha1": "c1248d53596050746a4653d03a597bdf007e6328",
+          "md5": "0df6da1473dca9a8c1e03e0ef5c91cf2"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "geolocator_android_release-1.0-sources.jar",
           "url": "geolocator_android_release-1.0-sources.jar",
-          "size": 31890,
-          "sha512": "b32a777f31a41f564ebb86a27f2569c676c304da48ef4ef75bf058a96933917c6869773b75b6ccf133c13bc3087a925cc4d44ea5832d8880cda04ed7029fd942",
-          "sha256": "a969c85ae035ab177b5580bfac860bcb7674afaaa49f416df5a1586e38f81b34",
-          "sha1": "096d611bcfda1cb7b3cedea1ae4f1711e9988ac2",
-          "md5": "073bb7fc0ad58d2aadc1607238b4a952"
+          "size": 31879,
+          "sha512": "f3f291e3d9e888c3dd99f09f83d3a9ec1a485a3238bb9d034aa374286ae84ec2522203afb28e4568fbf59b2a2fb42db9efd99b085e5bc44655da26e73aa31043",
+          "sha256": "3c1c46f21e9c253012e2d51ae8d26cb8cba7c953849ce596df03d12f8ffe5a50",
+          "sha1": "673e2dadde3fc356791a4c3b67f20cf607a2761b",
+          "md5": "40d46bc156ff183cfbd6bf092c066005"
         }
       ]
     },

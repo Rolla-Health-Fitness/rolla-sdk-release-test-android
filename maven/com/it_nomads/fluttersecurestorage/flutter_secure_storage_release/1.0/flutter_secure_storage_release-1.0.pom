@@ -15,13 +15,19 @@
     <dependency>
       <groupId>io.flutter</groupId>
       <artifactId>flutter_embedding_release</artifactId>
-      <version>1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab</version>
+      <version>1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b</version>
       <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.security</groupId>
+      <artifactId>security-crypto</artifactId>
+      <version>1.1.0-alpha06</version>
+      <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>com.google.crypto.tink</groupId>
       <artifactId>tink-android</artifactId>
-      <version>1.19.0</version>
+      <version>1.9.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

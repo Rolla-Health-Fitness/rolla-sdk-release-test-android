@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
           }
         }
       ],
@@ -35,11 +42,11 @@
         {
           "name": "image_picker_android_release-1.0.aar",
           "url": "image_picker_android_release-1.0.aar",
-          "size": 70039,
-          "sha512": "921c44829e6661907207508ace7449ff11eb504aa7f8327de8c9b27745ef5bb579ecd398080aefe94389e4d11daeec27be693a49d4f1b056cf0418710d877031",
-          "sha256": "32785b98045c733b3342d69cf93018d1ffb1a0da0b04047aa90be4542ebe9612",
-          "sha1": "8666d8a398e9c6b435a5842bae91d42b278f00a6",
-          "md5": "c01f5ec6acbc6e1723b2c7b33a50f68a"
+          "size": 83942,
+          "sha512": "f0eb6b760b7820e118e50b30c2b1d78f10869778af160108aa036d8b8cfb5fed9393ae6003f4f6d25f696ed0913cf9b2c465605eb9dad99dba218cef5a396da8",
+          "sha256": "1eb42d2b5cee3c8ad0fcfbb1421358be0d20787a21c9a5b714bc5fdca2f16e9b",
+          "sha1": "75100bfc4af30ef7fd6fec555fc509c4a3dc4b30",
+          "md5": "39eabec51128b4c3f923ab663483be0f"
         }
       ]
     },
@@ -56,7 +63,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
@@ -93,17 +100,24 @@
           "version": {
             "requires": "1.0"
           }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
         }
       ],
       "files": [
         {
           "name": "image_picker_android_release-1.0.aar",
           "url": "image_picker_android_release-1.0.aar",
-          "size": 70039,
-          "sha512": "921c44829e6661907207508ace7449ff11eb504aa7f8327de8c9b27745ef5bb579ecd398080aefe94389e4d11daeec27be693a49d4f1b056cf0418710d877031",
-          "sha256": "32785b98045c733b3342d69cf93018d1ffb1a0da0b04047aa90be4542ebe9612",
-          "sha1": "8666d8a398e9c6b435a5842bae91d42b278f00a6",
-          "md5": "c01f5ec6acbc6e1723b2c7b33a50f68a"
+          "size": 83942,
+          "sha512": "f0eb6b760b7820e118e50b30c2b1d78f10869778af160108aa036d8b8cfb5fed9393ae6003f4f6d25f696ed0913cf9b2c465605eb9dad99dba218cef5a396da8",
+          "sha256": "1eb42d2b5cee3c8ad0fcfbb1421358be0d20787a21c9a5b714bc5fdca2f16e9b",
+          "sha1": "75100bfc4af30ef7fd6fec555fc509c4a3dc4b30",
+          "md5": "39eabec51128b4c3f923ab663483be0f"
         }
       ]
     },
@@ -119,11 +133,11 @@
         {
           "name": "image_picker_android_release-1.0-sources.jar",
           "url": "image_picker_android_release-1.0-sources.jar",
-          "size": 26588,
-          "sha512": "964e4ee3747874d7ec0e6046ff5186e6238290e41f3e5aecfd1c7e87c3b2143f57ce7bb64b8b3235c02f6876ef5c8e99874050bfc1c9d2c364988b1deb02d450",
-          "sha256": "0dc986023c445e827cf3fff727d4540ca879f699cf07e7caa593d9f30210b40b",
-          "sha1": "bd666d009c2d083a00755525ae8e92c3adc13ff4",
-          "md5": "c36bb10dbbc7e6ce6c008b12cee85273"
+          "size": 26339,
+          "sha512": "6b66bb404855e49fae2b7d7ef302441e16bb4dd17b214f2ed8fa2489c03651bf0ab1358ae3093fded6ffb62e4f53d2671ee1c6b4b6cf23d23ff6bcd0b39bfc42",
+          "sha256": "7d37f0934a45706374461cf175bb5391dd5fee6d6c91eee258c987e926ff7fc9",
+          "sha1": "f58f87734345f34aeebf11488442a1144706311b",
+          "md5": "0f6c19b98d7c74c7d21582cd6130d698"
         }
       ]
     },
@@ -139,11 +153,11 @@
         {
           "name": "image_picker_android_release-1.0-javadoc.jar",
           "url": "image_picker_android_release-1.0-javadoc.jar",
-          "size": 382978,
-          "sha512": "7c0169fd1844712f2c7884638643d26527a0d1c147ed6942009518e020bd86bac4e9fc81c756077d619d61ae2ab94534c53a645f52d4c148b965d031ead965d1",
-          "sha256": "190abcd7d8828e35dbcac331dbf7a4e7008547aaaca77fb85bbfb0f4a0e88bf8",
-          "sha1": "e4dc9e6f208422e746b577598f3cdd3df9b60cea",
-          "md5": "6d6161f0bdb35788fddcc43e0b94a8bd"
+          "size": 385404,
+          "sha512": "ba03fd5ddf6cef2584a392e2e92dbba700061455354214bae487631e94bd3abae2bc21321c41cdda76c332f52b2f2f4186b341ca451a0baccd7b7e0710450cf2",
+          "sha256": "87ee976549ec385986734f226e947a181b96ffee415b75e6824314115241a5d8",
+          "sha1": "b680def23fa4bb84881bed1c88e7ac96617278f5",
+          "md5": "e525bd5da42504da40c3d46fe96cb87c"
         }
       ]
     }

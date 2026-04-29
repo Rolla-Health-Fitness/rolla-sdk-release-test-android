@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "shared_preferences_android_release-1.0.aar",
           "url": "shared_preferences_android_release-1.0.aar",
-          "size": 112155,
-          "sha512": "9005bcf11f3fa6227b0044080241bedd670732cccaab0501bccfd9bac192f6c400253e67468e612d7c131740662846c986d4b564a24d118ddd609370005abbf6",
-          "sha256": "8323a8ab6a41d85e6c0192f557ac7e8f5e223bab1ca6ce3a5c309fae2d84a220",
-          "sha1": "51de7703412e8175e7652aa34715e5d7e525477f",
-          "md5": "b93d8d6281019574ffc87dfb732ffa85"
+          "size": 108974,
+          "sha512": "336608fb1ecd9928d8a9805dc6802b6ce6d9c27a552ada084ed4438f44d608b161b0ce2036657ab8c6f456f7fc08933f2f6ca069fbef3cae2fab16babfe0c08e",
+          "sha256": "60b8c0298750446ddd6ca3f17562eac5b8353a7cb61a81264ccecaf3fb2fea02",
+          "sha1": "2296ee9a1c2b08bdc62eb71a9d68f1c08527d931",
+          "md5": "6cffbb45766441efa0da8cc23a916cbe"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
@@ -91,7 +91,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -99,11 +99,11 @@
         {
           "name": "shared_preferences_android_release-1.0.aar",
           "url": "shared_preferences_android_release-1.0.aar",
-          "size": 112155,
-          "sha512": "9005bcf11f3fa6227b0044080241bedd670732cccaab0501bccfd9bac192f6c400253e67468e612d7c131740662846c986d4b564a24d118ddd609370005abbf6",
-          "sha256": "8323a8ab6a41d85e6c0192f557ac7e8f5e223bab1ca6ce3a5c309fae2d84a220",
-          "sha1": "51de7703412e8175e7652aa34715e5d7e525477f",
-          "md5": "b93d8d6281019574ffc87dfb732ffa85"
+          "size": 108974,
+          "sha512": "336608fb1ecd9928d8a9805dc6802b6ce6d9c27a552ada084ed4438f44d608b161b0ce2036657ab8c6f456f7fc08933f2f6ca069fbef3cae2fab16babfe0c08e",
+          "sha256": "60b8c0298750446ddd6ca3f17562eac5b8353a7cb61a81264ccecaf3fb2fea02",
+          "sha1": "2296ee9a1c2b08bdc62eb71a9d68f1c08527d931",
+          "md5": "6cffbb45766441efa0da8cc23a916cbe"
         }
       ]
     },

@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "wakelock_plus_release-1.0.aar",
           "url": "wakelock_plus_release-1.0.aar",
-          "size": 18235,
-          "sha512": "7f2730a3dba720d022f633a6e86d89001c0de439a601b1db51349f71fbb1a943890c5747a6df98a19822e70148128ffffc91e6b254a097ea269c254caffb829e",
-          "sha256": "d02fcfd0cf82cbaeb44c2dcd19bd78da5d0f616a31299e719785785941e5ed91",
-          "sha1": "e04ced10099b284d3070851fba137ddc8c8013fe",
-          "md5": "e67c947dcdab9b227ad242e529c945b9"
+          "size": 17929,
+          "sha512": "f6770f83559074553e5c5a53552e8c7e1e164fc7db0c9bf3bcc20d186ebdb894328c047a71f65f3c1a80cbab4303293d084ccf0d34876a8273246e6aa7803218",
+          "sha256": "0904bccb8d5e631d0e2b061a21fc87620d0a03cba77ed8c2d8fb298352f889bc",
+          "sha1": "63910da797515613ef4c7cb81e8a38d78c2ea3ba",
+          "md5": "f2ee4aaef404b5d81e9af7db52ad1ddb"
         }
       ]
     },
@@ -56,14 +56,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.0"
+            "requires": "1.7.22"
           }
         },
         {
@@ -78,11 +78,11 @@
         {
           "name": "wakelock_plus_release-1.0.aar",
           "url": "wakelock_plus_release-1.0.aar",
-          "size": 18235,
-          "sha512": "7f2730a3dba720d022f633a6e86d89001c0de439a601b1db51349f71fbb1a943890c5747a6df98a19822e70148128ffffc91e6b254a097ea269c254caffb829e",
-          "sha256": "d02fcfd0cf82cbaeb44c2dcd19bd78da5d0f616a31299e719785785941e5ed91",
-          "sha1": "e04ced10099b284d3070851fba137ddc8c8013fe",
-          "md5": "e67c947dcdab9b227ad242e529c945b9"
+          "size": 17929,
+          "sha512": "f6770f83559074553e5c5a53552e8c7e1e164fc7db0c9bf3bcc20d186ebdb894328c047a71f65f3c1a80cbab4303293d084ccf0d34876a8273246e6aa7803218",
+          "sha256": "0904bccb8d5e631d0e2b061a21fc87620d0a03cba77ed8c2d8fb298352f889bc",
+          "sha1": "63910da797515613ef4c7cb81e8a38d78c2ea3ba",
+          "md5": "f2ee4aaef404b5d81e9af7db52ad1ddb"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "wakelock_plus_release-1.0-sources.jar",
           "url": "wakelock_plus_release-1.0-sources.jar",
-          "size": 3927,
-          "sha512": "2e3d36b72512629fa640f142557001c110f04f5577ce2891025ccdd9029e820a03ed0de72329e3afd74e468a18935a8deb658f9975035bb1543cd556676b7e1a",
-          "sha256": "6f54ee823534a6c37029850a90bf6afa1c5565bee4dba8fc474a708fe4956a98",
-          "sha1": "db1ceb221070c8e380e23b58af20d41589ddfd40",
-          "md5": "d5893351a561464b1347c27e79b8368e"
+          "size": 3916,
+          "sha512": "359767be2b797d98373f6871328829009d6022867726334813b38969564f029dc5b1aeea9e1e28a5a6031c1a261b5d2e135d26783a33ac117f587f0196df6e29",
+          "sha256": "fd5b4a6f7f39aafb97d6d8992d3dd22e7349b4be8609b38d9f9abf3c352a01f1",
+          "sha1": "aa81e2a7321590905f0114b14d7c1c6b63922989",
+          "md5": "e818359f078b4a104e6aa81dc9b61f93"
         }
       ]
     },

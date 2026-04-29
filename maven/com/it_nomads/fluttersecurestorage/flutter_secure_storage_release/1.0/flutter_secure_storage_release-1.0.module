@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         }
       ],
@@ -35,11 +35,11 @@
         {
           "name": "flutter_secure_storage_release-1.0.aar",
           "url": "flutter_secure_storage_release-1.0.aar",
-          "size": 80579,
-          "sha512": "fdfc872654b3acd836bb201c8a452e9616874b687379dcb176ab7368d4c987bfeaee8ea970ae497e9566fafbb6dce20033753ac7de370ecb1a08b61d3c9d28e7",
-          "sha256": "ec5e3f58cfcb4501cb0964861fc079214c7eb9935fd1a0eac4a0f7ebcaf0a008",
-          "sha1": "329edd211ed29c35dcc36475245bb92ba820f77e",
-          "md5": "a8287c2988fcb280958299455a6eed61"
+          "size": 24964,
+          "sha512": "e950f14c06e90a365af28f68cb073d9827f0fab6cca480434bf6203082b74f4b30c92ee7aa9a7c27504a13702e9543814653d71eb4b920ecfc7862237f063e0b",
+          "sha256": "23eecce9bea33965ea0798c898367b1776ebe21e3c2bbbf5092b761752fa3420",
+          "sha1": "f073b872d93721d241fe6ea9952bf9a43d0385cc",
+          "md5": "c646cad6a22724e6d2c0ec6f16f5506e"
         }
       ]
     },
@@ -56,14 +56,21 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "androidx.security",
+          "module": "security-crypto",
+          "version": {
+            "requires": "1.1.0-alpha06"
           }
         },
         {
           "group": "com.google.crypto.tink",
           "module": "tink-android",
           "version": {
-            "requires": "1.19.0"
+            "requires": "1.9.0"
           }
         }
       ],
@@ -71,11 +78,11 @@
         {
           "name": "flutter_secure_storage_release-1.0.aar",
           "url": "flutter_secure_storage_release-1.0.aar",
-          "size": 80579,
-          "sha512": "fdfc872654b3acd836bb201c8a452e9616874b687379dcb176ab7368d4c987bfeaee8ea970ae497e9566fafbb6dce20033753ac7de370ecb1a08b61d3c9d28e7",
-          "sha256": "ec5e3f58cfcb4501cb0964861fc079214c7eb9935fd1a0eac4a0f7ebcaf0a008",
-          "sha1": "329edd211ed29c35dcc36475245bb92ba820f77e",
-          "md5": "a8287c2988fcb280958299455a6eed61"
+          "size": 24964,
+          "sha512": "e950f14c06e90a365af28f68cb073d9827f0fab6cca480434bf6203082b74f4b30c92ee7aa9a7c27504a13702e9543814653d71eb4b920ecfc7862237f063e0b",
+          "sha256": "23eecce9bea33965ea0798c898367b1776ebe21e3c2bbbf5092b761752fa3420",
+          "sha1": "f073b872d93721d241fe6ea9952bf9a43d0385cc",
+          "md5": "c646cad6a22724e6d2c0ec6f16f5506e"
         }
       ]
     },
@@ -91,11 +98,11 @@
         {
           "name": "flutter_secure_storage_release-1.0-sources.jar",
           "url": "flutter_secure_storage_release-1.0-sources.jar",
-          "size": 40762,
-          "sha512": "daaf33723538bec343366b74b9bdea6a7d77806e08bddc0a8f599581070dfad6a3bdf26f295a6aeee0690a2b2eec98568be2aea964eb8fc3015403de9aa30d57",
-          "sha256": "dcae543b4ad127eeda9b77ba74ba293be96d799f3fb8cfcaf081690815aa0aff",
-          "sha1": "eb7ea6a0db1c8d724dad3874b6ead692e40cf44f",
-          "md5": "30c1a5d2618b53fea0b6d49acc2fb3e8"
+          "size": 12534,
+          "sha512": "fcdbec471d1020aca7debb4980e3cea0b149e8b8580c5fb3b2c21ca8576ba704f7169a83c62db1c1ded8560f437ffbee69f49a5812d36b452bbf0f6930d27fe6",
+          "sha256": "b1bca772397453d700fe173e49d629cdfc2a735732389f1ae6898b147a934087",
+          "sha1": "19c22aced34c08b86837d9bcb1039e715f573657",
+          "md5": "0bf72f214670f698fed4573890e558e7"
         }
       ]
     },
@@ -111,11 +118,11 @@
         {
           "name": "flutter_secure_storage_release-1.0-javadoc.jar",
           "url": "flutter_secure_storage_release-1.0-javadoc.jar",
-          "size": 353823,
-          "sha512": "a73b4ba2d2168b731adad7647afd93c265e47d4cded6160f74a5a2da15feb880843d115140aa19cda2d361166fc606f6696102fd744179faa8df978e1360b121",
-          "sha256": "045cbfa68cd531df36834ba453363229a723ad4f8f2b53afdc083b82d3fdeea0",
-          "sha1": "21a857a7f1d3178690e05338bc478378c80f3bbb",
-          "md5": "71e95b7cdbf5edfcf4a4a97f9912ab1c"
+          "size": 307679,
+          "sha512": "7f714bff45b6ac3dd71e4fd83a4754e3816cf4b250d3d3c56ca48db4b5c73d1083b39ab3bfec8b418e20f385f4682d9f9750773311b239e9cb88cb860a7aa635",
+          "sha256": "6d3c03f6233e3aa8004fa64bb9be711f0e1bc2113a6615bdbe34816ffb11fde2",
+          "sha1": "1457ee598f8f0be777dfba0a3920eb0bc5b4a10c",
+          "md5": "6cd2a3e9e3b9638b060f66a6e6618c5e"
         }
       ]
     }

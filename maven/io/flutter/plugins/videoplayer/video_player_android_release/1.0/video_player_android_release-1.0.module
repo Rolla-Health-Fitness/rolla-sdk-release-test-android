@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14"
+      "version": "8.12"
     }
   },
   "variants": [
@@ -27,14 +27,14 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -42,11 +42,11 @@
         {
           "name": "video_player_android_release-1.0.aar",
           "url": "video_player_android_release-1.0.aar",
-          "size": 98362,
-          "sha512": "773fa8d4df4dbb8b76d9ba0b85e9074e36f5a86c34536c4156569e1a7bd11e1ed701253f5f4f6e80468a7738004e1b8ade36c15dfeae5aedb1bd6f7d4533d67c",
-          "sha256": "be7034bb2413e0e84f0bd243dbedca8c76c42aa59f6b191e87b92bca0d1603e3",
-          "sha1": "0f3b3a4289095d2ca063c6ca08c8103eb5962d45",
-          "md5": "88b89e1006fefc86e2cdbbed984a51a3"
+          "size": 98056,
+          "sha512": "049fb71f62de4dd163db3e412c8b387eaeac982822f6ee0a9a16c11af686c70b01a1e2a48ec2b9da10793743e7b0d3a2729c196f3d0485f70f957282cfd731f9",
+          "sha256": "a4df67107ade69986a39280abebdf9ae66c9aed0747a2d03c5bfd632d88aed04",
+          "sha1": "1ab3abf9961ea2f6538c554b561ff592a4ced683",
+          "md5": "fbf5423689b23911314c8cbd565a1cdb"
         }
       ]
     },
@@ -63,7 +63,7 @@
           "group": "io.flutter",
           "module": "flutter_embedding_release",
           "version": {
-            "requires": "1.0.0-59aa584fdf100e6c78c785d8a5b565d1de4b48ab"
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
           }
         },
         {
@@ -105,7 +105,7 @@
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.2.20"
+            "requires": "2.1.0"
           }
         }
       ],
@@ -113,11 +113,11 @@
         {
           "name": "video_player_android_release-1.0.aar",
           "url": "video_player_android_release-1.0.aar",
-          "size": 98362,
-          "sha512": "773fa8d4df4dbb8b76d9ba0b85e9074e36f5a86c34536c4156569e1a7bd11e1ed701253f5f4f6e80468a7738004e1b8ade36c15dfeae5aedb1bd6f7d4533d67c",
-          "sha256": "be7034bb2413e0e84f0bd243dbedca8c76c42aa59f6b191e87b92bca0d1603e3",
-          "sha1": "0f3b3a4289095d2ca063c6ca08c8103eb5962d45",
-          "md5": "88b89e1006fefc86e2cdbbed984a51a3"
+          "size": 98056,
+          "sha512": "049fb71f62de4dd163db3e412c8b387eaeac982822f6ee0a9a16c11af686c70b01a1e2a48ec2b9da10793743e7b0d3a2729c196f3d0485f70f957282cfd731f9",
+          "sha256": "a4df67107ade69986a39280abebdf9ae66c9aed0747a2d03c5bfd632d88aed04",
+          "sha1": "1ab3abf9961ea2f6538c554b561ff592a4ced683",
+          "md5": "fbf5423689b23911314c8cbd565a1cdb"
         }
       ]
     },

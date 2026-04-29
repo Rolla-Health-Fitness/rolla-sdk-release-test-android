@@ -37,6 +37,12 @@
       <scope>runtime</scope>
     </dependency>
     <dependency>
+      <groupId>androidx.health.connect</groupId>
+      <artifactId>connect-client</artifactId>
+      <version>1.2.0-alpha02</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
       <groupId>org.jetbrains.kotlinx</groupId>
       <artifactId>kotlinx-coroutines-android</artifactId>
       <version>1.7.3</version>
