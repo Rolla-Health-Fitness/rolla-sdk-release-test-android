@@ -1,12 +1,13 @@
 # Maven Version Mapping
 
-Rolla SDK Version: 0.1.12
+Rolla SDK Version: 0.1.0
+Android Maven Version: 0.1.0-test.224.1
 
 To use this version in your Android project:
 ```kotlin
 dependencies {
     // Use android_release - it includes flutter_release (Dart code) as a transitive dependency
-    implementation("com.rolla.sdk:android_release:0.1.12")
+    implementation("com.rolla.sdk:android_release:0.1.0-test.224.1")
 }
 ```
 
@@ -24,7 +25,7 @@ Browse available versions at: https://rolla-health-fitness.github.io/rolla-sdk-r
 1. Check the latest version in `maven-metadata.xml`
 2. Update your `build.gradle.kts`:
    ```kotlin
-   implementation("com.rolla.sdk:android_release:0.1.12")
+   implementation("com.rolla.sdk:android_release:0.1.0-test.224.1")
    ```
 3. Sync Gradle and rebuild
 
@@ -32,7 +33,7 @@ Browse available versions at: https://rolla-health-fitness.github.io/rolla-sdk-r
 
 ```toml
 [versions]
-rolla-sdk = "0.1.12"
+rolla-sdk = "0.1.0-test.224.1"
 
 [libraries]
 rolla-sdk = { group = "com.rolla.sdk", name = "android_release", version.ref = "rolla-sdk" }

@@ -2,7 +2,7 @@
 
 Android distribution repository for the Rolla Flutter SDK. Artifacts are served as a Maven repository via GitHub Pages.
 
-**Latest version:** `0.1.12`
+**Latest version:** `0.1.0-test.224.1`
 
 ---
 
@@ -43,7 +43,7 @@ dependencies {
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
 
     // Rolla SDK
-    implementation("com.rolla.sdk:android_release:0.1.12")
+    implementation("com.rolla.sdk:android_release:0.1.0-test.224.1")
 }
 ```
 
