@@ -35,11 +35,11 @@
         {
           "name": "android_release-1.0.aar",
           "url": "android_release-1.0.aar",
-          "size": 1244367,
-          "sha512": "ac1d8c25d748495767e6216c2762f1125c4e6a207eb1b5929eab1f5cdf16342ed6247771322445f318bffc7f1542b013d1dfe4d72902eab52b3a75a5effac9e1",
-          "sha256": "1893c59daada7fd8e33faa486062e2cbb7e5af3174839e41378a21f7c22747a9",
-          "sha1": "3ac5365dc19d1c8942852cfc72cf91b8859ccfa6",
-          "md5": "6ec447d6c6bc030573329e08f9fc94a5"
+          "size": 1244509,
+          "sha512": "b4bccf99b9c521562953749958cfc26a439e2a1154ca2640ebc84d292a1ccb7989d424f7ccaaa870a37d5f33dbc2ddca21dec9f9ec8713bb9f45b6d00e87ca02",
+          "sha256": "84136645be08b0d77e92856ae8f9a73a7e4991fc9f594e38a44828c98aae659f",
+          "sha1": "3c8844fa454b5cd83ec58cb30f158626103fdff9",
+          "md5": "61207d9e41f49b7e49da218560e28f7d"
         }
       ]
     },
@@ -113,11 +113,11 @@
         {
           "name": "android_release-1.0.aar",
           "url": "android_release-1.0.aar",
-          "size": 1244367,
-          "sha512": "ac1d8c25d748495767e6216c2762f1125c4e6a207eb1b5929eab1f5cdf16342ed6247771322445f318bffc7f1542b013d1dfe4d72902eab52b3a75a5effac9e1",
-          "sha256": "1893c59daada7fd8e33faa486062e2cbb7e5af3174839e41378a21f7c22747a9",
-          "sha1": "3ac5365dc19d1c8942852cfc72cf91b8859ccfa6",
-          "md5": "6ec447d6c6bc030573329e08f9fc94a5"
+          "size": 1244509,
+          "sha512": "b4bccf99b9c521562953749958cfc26a439e2a1154ca2640ebc84d292a1ccb7989d424f7ccaaa870a37d5f33dbc2ddca21dec9f9ec8713bb9f45b6d00e87ca02",
+          "sha256": "84136645be08b0d77e92856ae8f9a73a7e4991fc9f594e38a44828c98aae659f",
+          "sha1": "3c8844fa454b5cd83ec58cb30f158626103fdff9",
+          "md5": "61207d9e41f49b7e49da218560e28f7d"
         }
       ]
     },
@@ -133,11 +133,11 @@
         {
           "name": "android_release-1.0-sources.jar",
           "url": "android_release-1.0-sources.jar",
-          "size": 314820,
-          "sha512": "e7ddc3e543700ffd714bf53fe35ea3bc99e4a89f3bc5ea31700ade0bdd80f55b8c17eb5f62c5028f2ee45e70e0206c7b4803b06bafccf2bbed3dc19f85944db8",
-          "sha256": "34fcc58d83abd0d8b605a984c88b07671b54071cc05c4dda71e24c3d60ad62c5",
-          "sha1": "67af132e7c2af0b8cc4fac8889a1d384d201bb41",
-          "md5": "81bb8abf5535566eb9b336a495ed7288"
+          "size": 314837,
+          "sha512": "93924742f3f3ea11c37bb743d2d118a6050b0c1cc03b8e6777a010e08cc4b7cb19f6ddb60569db5f5fe84cd0fc814cd3a0e1b3c090b6d16ace48aba92aa932f4",
+          "sha256": "ec22324a872ae67c3791b6818e68f1637fe6a01f21c498c4beb40cbd5044a724",
+          "sha1": "56729288400fe2920dd9a35acf7fb258f0bda3e3",
+          "md5": "086628d2a7226577c9002955e1fd572b"
         }
       ]
     },
@@ -153,11 +153,11 @@
         {
           "name": "android_release-1.0-javadoc.jar",
           "url": "android_release-1.0-javadoc.jar",
-          "size": 2132889,
-          "sha512": "13f41e545cf861378058357b2ace181b267c18ded770e6b87bcd2cdf00be80a3c976435c8b3f0f853d5d2a413849c7b89b8f95a2b81e5fa601ee27b2ef22de51",
-          "sha256": "e5d28d8bbb52be1188d2ff3c5344c275d5895747c9da2e0b5a37c63e27777192",
-          "sha1": "f9f960a1453dae07c73821599bdd9c3d812ba7ce",
-          "md5": "13788dc224ca0d462753784be0e903d5"
+          "size": 2133433,
+          "sha512": "a3f06b6ebd3eb194310d3ffc0961c20f255eafa29b7929efa3a5d8c0303db8bef34375126a13ce45b049cd76ea1bb847aa35a25659045d43931a043f643fce91",
+          "sha256": "c91e89dd51469ea59616474f72a383d6d0a0efe40cb8fdab3d4738d3c984b2b6",
+          "sha1": "46d9cfb585c4ecf433276433294def0f719eb9f2",
+          "md5": "890220f86e69934264ab344548ad1bd3"
         }
       ]
     }
