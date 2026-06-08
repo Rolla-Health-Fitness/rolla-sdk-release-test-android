@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "vn.hunghd.flutter.plugins.imagecropper",
+    "module": "image_cropper_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "image_cropper_release-1.0.aar",
+          "url": "image_cropper_release-1.0.aar",
+          "size": 12522,
+          "sha512": "5ee9b35569985944065c35b379a8b1bccbf42a0d2f4564a2b646b6336defac0ef60a03141d195ab431f15cd64e2859dc05b69882536f924061213de3db79c8cc",
+          "sha256": "05bdcf575e7ea045e189ec5d617c317015aab56f0a059499c38061fc44f2634d",
+          "sha1": "48ff1abc125e20eb77b9a0e651dd2a78bf7f34f6",
+          "md5": "148fc1f820959058f2a8f4c22e563788"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "com.github.yalantis",
+          "module": "ucrop",
+          "version": {
+            "requires": "2.2.10"
+          }
+        },
+        {
+          "group": "androidx.preference",
+          "module": "preference",
+          "version": {
+            "requires": "1.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "image_cropper_release-1.0.aar",
+          "url": "image_cropper_release-1.0.aar",
+          "size": 12522,
+          "sha512": "5ee9b35569985944065c35b379a8b1bccbf42a0d2f4564a2b646b6336defac0ef60a03141d195ab431f15cd64e2859dc05b69882536f924061213de3db79c8cc",
+          "sha256": "05bdcf575e7ea045e189ec5d617c317015aab56f0a059499c38061fc44f2634d",
+          "sha1": "48ff1abc125e20eb77b9a0e651dd2a78bf7f34f6",
+          "md5": "148fc1f820959058f2a8f4c22e563788"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "image_cropper_release-1.0-sources.jar",
+          "url": "image_cropper_release-1.0-sources.jar",
+          "size": 6826,
+          "sha512": "299e93d217e219cddddf6dfcda5f59af3272f345c9a4db7c2beddc41875ad8d3dd3462a00d2963f370ffd2afa3c0e86917f5cb0694591098e8115f9f8035245d",
+          "sha256": "aace2ca8204ffac7687073b7227fb1cd9ae7c63aa4d091f04efa633709e0aa31",
+          "sha1": "f41e521bbe4630101e31051e23d49390c7a853c2",
+          "md5": "060d0986acc0d932b6e10d03a8e98efb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "image_cropper_release-1.0-javadoc.jar",
+          "url": "image_cropper_release-1.0-javadoc.jar",
+          "size": 269822,
+          "sha512": "1f87f4ce8f87731adabc22b69714939eb9e51251f524d31aac54e9d95781ed50c2307f08d6db45e0213d3163ef9f206ea105e0bb642411b6d4d8863d8187bbc5",
+          "sha256": "b8e049aef6a97b6a0a5a3d6fd87801331330d87ad49ff3cfaff1417cb1f281c9",
+          "sha1": "c566d95d1f63108a0a05c8aa4bb675aaaf4a66bd",
+          "md5": "07bf5cba644be0a3941522d0af8f5f49"
+        }
+      ]
+    }
+  ]
+}
