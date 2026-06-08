@@ -118,11 +118,11 @@
         {
           "name": "wakelock_plus_release-1.0-javadoc.jar",
           "url": "wakelock_plus_release-1.0-javadoc.jar",
-          "size": 310231,
-          "sha512": "3fb7c4d762b193a2568d922594110c1e093d557c473e3fe0dc31d62fe3d125b88a995543d18226ad415404e60f09fe4ef32d0c78bc3a6e2a19481b24c7b6ee16",
-          "sha256": "4320ea626c0aa54c583b070665477b6e0601092a23dbda29b50d3a980dff6a9e",
-          "sha1": "f3aa3a1da1d1b724a46bb0377c39e5eb6679c969",
-          "md5": "77239cee001296b6d7ab91b01be16fd6"
+          "size": 310181,
+          "sha512": "bd1585f679370f1203a34c4a07de1b462049fc5040d781cbeed6a646b05675c81bf4067aaafb489a121acc1d35517d9e728b5dda5992d8d38f69518ef337bc39",
+          "sha256": "6405b0b5e4114cc702a170a4760e9da636b25d62b1faae4225c8682f8cb97a4d",
+          "sha1": "99be376797c7955f2d427a723982af4ee90688e3",
+          "md5": "ab6834d8a1544c73b0f6304039877e19"
         }
       ]
     }
