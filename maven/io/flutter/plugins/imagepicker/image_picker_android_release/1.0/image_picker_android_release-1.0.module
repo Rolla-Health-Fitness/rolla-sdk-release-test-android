@@ -153,11 +153,11 @@
         {
           "name": "image_picker_android_release-1.0-javadoc.jar",
           "url": "image_picker_android_release-1.0-javadoc.jar",
-          "size": 385265,
-          "sha512": "5fe591e31bc1f282d96855df9cb0249aa94ef08099dbec9212760f024fb79d4d227120526664065ffb16f3bee693fb59d9619f7f6fae7258b7306b076f6ccb20",
-          "sha256": "820141ec49abe93c8e1b27199143d85c4d061473e78aefb3bd1dfb996f5d8828",
-          "sha1": "b5bf8cabf81121ccbfb1619889b5858cd3dc5322",
-          "md5": "4cffe4667db69e9c8a5da18c704d2dbb"
+          "size": 385392,
+          "sha512": "b6e6d33319574446e7d6f989ff00c8a2aea2838c6a2ce7bde4a1ee13b634e8173a867726c1c7de3d215b07a3d0b351049a2a99085186d6d750ca3a489c6f7986",
+          "sha256": "41566a441f29396ab555624fab10627f4f01d9b9d64ea58b71c817fea7f8d521",
+          "sha1": "8bdddc21234a9714170f58c8001e6584a05b51d7",
+          "md5": "a8a3ed856a21e53f8ca8e115229b49f1"
         }
       ]
     }
