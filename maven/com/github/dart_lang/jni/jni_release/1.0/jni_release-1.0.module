@@ -104,11 +104,11 @@
         {
           "name": "jni_release-1.0-javadoc.jar",
           "url": "jni_release-1.0-javadoc.jar",
-          "size": 283164,
-          "sha512": "aea27703dddec7ef3be32c4a714433c92a5702b85a0036cf0ce1be93a7096c6176a3e4f7e0ab9f9ccf409f955ccfc640ebdeee6f8bd16bee90fc7e41ddaeb81c",
-          "sha256": "e0c04ab44e2f268b05397ec5b2b06f053981c2d671f7b0daff333559a2d4ac64",
-          "sha1": "973ea25e7c52821ddb73e0394ace85c1b8904588",
-          "md5": "289057f698f123795f7975ffd328deb5"
+          "size": 283162,
+          "sha512": "b3d81e724420de6baefb225842ff8e3c4eb2b2965df77ecbcf1af947a166ed53d6f615cbc41d6d7d34e4dcd9fbe56995ff778485e6daafdc8907a585bf88ed0d",
+          "sha256": "75b82d5214431baeadfa0e0f883247f1ac08d346dee3f2d4d9a9cfb2d6ecb66c",
+          "sha1": "f2d28e203511441c7d62f2eb30c98f5a8e77f978",
+          "md5": "cb7b73aac98faf428148f73e2d660259"
         }
       ]
     }

@@ -118,11 +118,11 @@
         {
           "name": "image_cropper_release-1.0-javadoc.jar",
           "url": "image_cropper_release-1.0-javadoc.jar",
-          "size": 269822,
-          "sha512": "1f87f4ce8f87731adabc22b69714939eb9e51251f524d31aac54e9d95781ed50c2307f08d6db45e0213d3163ef9f206ea105e0bb642411b6d4d8863d8187bbc5",
-          "sha256": "b8e049aef6a97b6a0a5a3d6fd87801331330d87ad49ff3cfaff1417cb1f281c9",
-          "sha1": "c566d95d1f63108a0a05c8aa4bb675aaaf4a66bd",
-          "md5": "07bf5cba644be0a3941522d0af8f5f49"
+          "size": 269829,
+          "sha512": "4d1008b4c97f73b50dd742b87f21bb93e4aff933963a31abc7cc3ff0eef3e1920c3287a319adbba82f1ba016e5106850502f4dc04c95aafd67d579b5e3a3cdf5",
+          "sha256": "27898982a47fcef7f2f19754eb2ed6d82ee4cf75431bbd314bbb8045c8dba0d1",
+          "sha1": "fdf9d7a88ee195a07186322e7e2798655df442a6",
+          "md5": "5954c942b3a5a026f81e0d159dd25598"
         }
       ]
     }
