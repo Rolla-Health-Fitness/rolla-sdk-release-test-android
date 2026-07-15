@@ -125,11 +125,11 @@
         {
           "name": "url_launcher_android_release-1.0-javadoc.jar",
           "url": "url_launcher_android_release-1.0-javadoc.jar",
-          "size": 332782,
-          "sha512": "0f28fd180591340b2376d8585bac8f9b640c15f35738b85b694f52c2c2125c0f38fd12f7fe7bf59c2817bd902a038dcfc16f0071d36dc4e6e0e1aa5f9d463167",
-          "sha256": "d6087592fd20df132152b7183f684ce3336a26d6fe9f373c199f233ea8c83889",
-          "sha1": "ffda9f7556be41879991d0b0a33f002539577758",
-          "md5": "8da06d7f13158c6b87b2a67fb469bab2"
+          "size": 332783,
+          "sha512": "7de7cab405a1877853924fc2684bf4a24e74c358f2fda2373dbf0413d606638f3546ecd9c55e20c75c36359f239bc167bd46711eba83b08854b1c3f391e35a3e",
+          "sha256": "906e14852cb727cc7bc120add99aa7e744013e4aa3b4290964b48d1a9e96cdad",
+          "sha1": "e59611263ab5413b04b003b9e9ee63f036fcd9d4",
+          "md5": "8a82233468962acca79d306b2b994883"
         }
       ]
     }
