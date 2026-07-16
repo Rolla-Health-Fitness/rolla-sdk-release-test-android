@@ -139,11 +139,11 @@
         {
           "name": "shared_preferences_android_release-1.0-javadoc.jar",
           "url": "shared_preferences_android_release-1.0-javadoc.jar",
-          "size": 358386,
-          "sha512": "93a247a12e29e5188b7680773ad4c5ccd1c5f07e61ac5a041baed368b61c280f0c391b3ac7a5e922809c9a6e99a8110b5e4420d0c6f80d808cf7f98828d7fcc7",
-          "sha256": "677fd94f1f05b574730db8d25a298566aea701f4207abf5e4780873302da4455",
-          "sha1": "6451b5003a952f9b33ec75136150a20176ddc8f7",
-          "md5": "560c3d800638f6aa1168b9631e13e002"
+          "size": 358392,
+          "sha512": "9b6256ef24665ff0d22fea77a919dfeb32bd79fd42107c0a720e2e8266c9048992e9dda97f63ad76deec96cd94fb39c68ec81ee24c156a603bf095502ba539a9",
+          "sha256": "0e44678e412b30a7a56630384d2a439a39984bcd87cf806940d158518ef7d103",
+          "sha1": "854db2a9899b5c70feb13f8bd9d6528e9ae4c8c9",
+          "md5": "c6fd4c9c406e210cc504999030f495c0"
         }
       ]
     }
