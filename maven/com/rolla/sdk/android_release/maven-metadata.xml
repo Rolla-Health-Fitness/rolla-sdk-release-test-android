@@ -3,10 +3,10 @@
   <groupId>com.rolla.sdk</groupId>
   <artifactId>android_release</artifactId>
   <versioning>
-    <latest>0.1.21-test.332</latest>
-    <release>0.1.21-test.332</release>
+    <latest>0.1.23-test.334</latest>
+    <release>0.1.23-test.334</release>
     <versions>
-      <version>0.1.21-test.332</version>    </versions>
-    <lastUpdated>20260812144009</lastUpdated>
+      <version>0.1.23-test.334</version>    </versions>
+    <lastUpdated>20260813142948</lastUpdated>
   </versioning>
 </metadata>
