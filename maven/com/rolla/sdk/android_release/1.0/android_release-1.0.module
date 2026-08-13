@@ -153,11 +153,11 @@
         {
           "name": "android_release-1.0-javadoc.jar",
           "url": "android_release-1.0-javadoc.jar",
-          "size": 2407858,
-          "sha512": "94a951e81fb39c6d814ad78aea03ffbfd25d4222aefb68e7b127e08ccac3360accf151b5d5c167d8b25a5f57b3634be237ff9538ef6059299096f1bc3db9d99b",
-          "sha256": "d9071db8e35dd2d291aa5e55f4b296c2b48397ba416e8e96d85ca6db9898b14b",
-          "sha1": "c791b2e243b15226ef03bc66c88189678428079a",
-          "md5": "80cbc27a6e4a71b551b998791ea69b09"
+          "size": 2407698,
+          "sha512": "08cb03398168261cb84f834d9bb699ef53839cd60d5d7bcf0df5b85fb1ef08f4f1c1f6772a9767f1de2347e98ef09e00ae7544b0caba1ed5fbdd669d543cb113",
+          "sha256": "51650c4af9ea639bb5098d496b41f90007fe5f568a675e1dc5d9edf8710e029a",
+          "sha1": "769ee5ac74f3adeb6c939ee4e8c3bc078031ac30",
+          "md5": "ca28c885b6b0e6cd58e8f428b5b9974d"
         }
       ]
     }
