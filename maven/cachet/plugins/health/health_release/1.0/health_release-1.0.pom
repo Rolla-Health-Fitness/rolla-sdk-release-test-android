@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- This module was also published with a richer model, Gradle metadata,  -->
+  <!-- which should be used instead. Do not delete the following line which  -->
+  <!-- is to indicate to Gradle or any Gradle module metadata file consumer  -->
+  <!-- that they should prefer consuming it instead. -->
+  <!-- do_not_remove: published-with-gradle-metadata -->
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>cachet.plugins.health</groupId>
+  <artifactId>health_release</artifactId>
+  <version>1.0</version>
+  <packaging>aar</packaging>
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>androidx.compose</groupId>
+        <artifactId>compose-bom</artifactId>
+        <version>2025.09.00</version>
+        <type>pom</type>
+        <scope>import</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+  <dependencies>
+    <dependency>
+      <groupId>io.flutter</groupId>
+      <artifactId>flutter_embedding_release</artifactId>
+      <version>1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-jdk7</artifactId>
+      <version>2.2.10</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.health.connect</groupId>
+      <artifactId>connect-client</artifactId>
+      <version>1.2.0-alpha02</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.fragment</groupId>
+      <artifactId>fragment-ktx</artifactId>
+      <version>1.8.9</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>dev.fluttercommunity.plus.device_info</groupId>
+      <artifactId>device_info_plus_release</artifactId>
+      <version>1.0</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
