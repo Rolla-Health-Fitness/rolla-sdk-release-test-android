@@ -1,0 +1,158 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.mapbox.maps.mapbox_maps",
+    "module": "mapbox_maps_flutter_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mapbox_maps_flutter_release-1.0.aar",
+          "url": "mapbox_maps_flutter_release-1.0.aar",
+          "size": 1113859,
+          "sha512": "8fb7ccfcae211a7e441054cbab93d961b31602cd0371890cbb048089d038edbc3bc4cb1f730177a00a54561dd6f6ef0d18ace22d7c92d7425347933e10fe64f0",
+          "sha256": "421135aac5af0825b7a7cacec38a673b3fd6e021405427f02200f7fdd8f349b4",
+          "sha1": "e0f090d0fb8d28ba596c7afb94ffa51cfbf30337",
+          "md5": "9f0510a3607a32396ad3781146a7f63f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "com.mapbox.maps",
+          "module": "android-ndk27",
+          "version": {
+            "requires": "11.22.0"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.5.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.6.2"
+          }
+        },
+        {
+          "group": "io.flutter.plugins.flutter_plugin_android_lifecycle",
+          "module": "flutter_plugin_android_lifecycle_release",
+          "version": {
+            "requires": "1.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mapbox_maps_flutter_release-1.0.aar",
+          "url": "mapbox_maps_flutter_release-1.0.aar",
+          "size": 1113859,
+          "sha512": "8fb7ccfcae211a7e441054cbab93d961b31602cd0371890cbb048089d038edbc3bc4cb1f730177a00a54561dd6f6ef0d18ace22d7c92d7425347933e10fe64f0",
+          "sha256": "421135aac5af0825b7a7cacec38a673b3fd6e021405427f02200f7fdd8f349b4",
+          "sha1": "e0f090d0fb8d28ba596c7afb94ffa51cfbf30337",
+          "md5": "9f0510a3607a32396ad3781146a7f63f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mapbox_maps_flutter_release-1.0-sources.jar",
+          "url": "mapbox_maps_flutter_release-1.0-sources.jar",
+          "size": 163983,
+          "sha512": "c69044e35555763460021eb6c202c25f88f38e1cc4258278a53f797ef090c3c8c590bd62a9dca97ecde80afaa41279e1917455c65fe8c0508e7efb9f5da0f3f6",
+          "sha256": "5fae0f575cf7d51cc56b0c7cc69893f72725d23ff246092ecef3a7b4fc5132e0",
+          "sha1": "d244501cee736d53e42f1a22f41a4703a2e5f1a2",
+          "md5": "5ded8b5d0341eb382ba9b113bef7bc85"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mapbox_maps_flutter_release-1.0-javadoc.jar",
+          "url": "mapbox_maps_flutter_release-1.0-javadoc.jar",
+          "size": 2104214,
+          "sha512": "c06b123d29da1e673fac6c11132eeebc0ed12ce28473bc9dfa84d4780228e833aabd017893173b3822ed12aac08aa62a5216ca960dc558b43df3fa050b892a20",
+          "sha256": "25af6bacfeb831e1669e2ef41bc3c3657a41d1be574863492341db2faf7e7609",
+          "sha1": "498b91d08656b355f36ad30a3cefb80db064202d",
+          "md5": "48d5bde778db7681549811d46fffc6dd"
+        }
+      ]
+    }
+  ]
+}
