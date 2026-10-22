@@ -1,0 +1,207 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.rolla.sdk",
+    "module": "android_release",
+    "version": "0.1.49-test.360",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "no.nordicsemi.android",
+          "module": "dfu",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.rolla.sdk",
+          "module": "flutter_release",
+          "version": {
+            "requires": "0.1.49-test.360"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "android_release-0.1.49-test.360.aar",
+          "url": "android_release-0.1.49-test.360.aar",
+          "size": 1501544,
+          "sha512": "88fbbd0b6abe8eaba54175494d5bc576d9f1a999ba4f8d2805a8ff693c093f8015e14e012a5aba5287d29e2eded7685c6177d08eb67750208d211777ab4312cc",
+          "sha256": "4c309f87fe20a7b6047aaa2d8f41324d2f760abd83205ddf70b9f81086d5c679",
+          "sha1": "1ced7246280baf089962278f8734b525609e4c33",
+          "md5": "751f045d9fc4ade47b2e3c95c1062610"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.0"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.13.1"
+          }
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-location",
+          "version": {
+            "requires": "21.3.0"
+          }
+        },
+        {
+          "group": "androidx.health.connect",
+          "module": "connect-client",
+          "version": {
+            "requires": "1.2.0-alpha02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.7.3"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.10.2"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "hilt-android",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "no.nordicsemi.android",
+          "module": "dfu",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.rolla.sdk",
+          "module": "flutter_release",
+          "version": {
+            "requires": "0.1.49-test.360"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "arm64_v8a_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        },
+        {
+          "group": "io.flutter",
+          "module": "armeabi_v7a_release",
+          "version": {
+            "requires": "1.0.0-d2913632a4578ee4d0b8b1c4a69888c8a0672c4b"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "android_release-0.1.49-test.360.aar",
+          "url": "android_release-0.1.49-test.360.aar",
+          "size": 1501544,
+          "sha512": "88fbbd0b6abe8eaba54175494d5bc576d9f1a999ba4f8d2805a8ff693c093f8015e14e012a5aba5287d29e2eded7685c6177d08eb67750208d211777ab4312cc",
+          "sha256": "4c309f87fe20a7b6047aaa2d8f41324d2f760abd83205ddf70b9f81086d5c679",
+          "sha1": "1ced7246280baf089962278f8734b525609e4c33",
+          "md5": "751f045d9fc4ade47b2e3c95c1062610"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "android_release-0.1.49-test.360-sources.jar",
+          "url": "android_release-0.1.49-test.360-sources.jar",
+          "size": 394760,
+          "sha512": "780b68659f8fe2ac5d42bfddd3419222bb64b2d850c2017bc295c7524a4a6845dc44e1fa50350867750e23ac876766e49ff72a4871fb65858d5b3d363b97147d",
+          "sha256": "596f17bfce304216ff2c494a6584a18276c79af56be3fe776d369da03f1a4248",
+          "sha1": "a794a271002e228ab49788f8006e24be81533eaf",
+          "md5": "eae986da142d413791131bfc5756c28f"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "android_release-0.1.49-test.360-javadoc.jar",
+          "url": "android_release-0.1.49-test.360-javadoc.jar",
+          "size": 2494379,
+          "sha512": "a09af9780a0702c3e2477b1ed5592f54e6e2dc808d10daeaeefa08540ad434b3394f3c589ce1c815a21a2d93405969a57803e5da6e75c69e21d4bcf6180bd91a",
+          "sha256": "89fb164465007e0bbc23e8d7f1841167ba710cfb1e15b8911fb3ce983ae83e47",
+          "sha1": "e88d23e67692c49f096918a21255d2feca275c0f",
+          "md5": "8cd4e67ce86d47de655dea44b2125372"
+        }
+      ]
+    }
+  ]
+}
