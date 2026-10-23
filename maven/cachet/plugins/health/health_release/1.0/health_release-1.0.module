@@ -143,11 +143,11 @@
         {
           "name": "health_release-1.0-javadoc.jar",
           "url": "health_release-1.0-javadoc.jar",
-          "size": 328726,
-          "sha512": "cc7338cc3057fafa691aa1e692fa7d05f0664736e572eecf3f3fbba3931ce1896938939d6e195aba53625ba0b437353af497f78f31624cc25bac4919a01fbb1f",
-          "sha256": "05d8e378c309739c8bbd9ce2a38d4a9ccfa7c1d499712d044a498bfc7013bd2a",
-          "sha1": "0527a0081d8a6794fa192468c1742976fe8a3cc2",
-          "md5": "36b067ebd6977e95922153e1069ebf2f"
+          "size": 328821,
+          "sha512": "86479e83ba7b51093949bc64dc099c8b0f45e2ed772dc21962df876f40f564e37427ef51145fd3c3321dea1c05dff44f090d8b57daa816868bc9fa57fd21fd9f",
+          "sha256": "63d955bb6e46740ff328af9585f0ecdbe9be285b4c1b460e2998324c986cf650",
+          "sha1": "fe8e25b47f8a055972c711bfc5fe8a83f966d8d0",
+          "md5": "8dced8ec7fadd5627271a312f1838b6d"
         }
       ]
     }
