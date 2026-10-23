@@ -146,11 +146,11 @@
         {
           "name": "mapbox_maps_flutter_release-1.0-javadoc.jar",
           "url": "mapbox_maps_flutter_release-1.0-javadoc.jar",
-          "size": 2101481,
-          "sha512": "5b776b41fb7bdace7c4c70dfa738e5d0d695996f8bf34f8adca27ac56225dee89aa2dbe0a30e312d527845c01651488f8e678560c3b96eab95afa82370999300",
-          "sha256": "7e9535ec9b7bafe8f9b81bc91cfd65bfc20faecddfde6cba85232ef9d4b39447",
-          "sha1": "0fdcdf4c933d72064f092a5327aa46322fd557cc",
-          "md5": "8e04c5737fcd02c6b326c5ce8aa09224"
+          "size": 2104214,
+          "sha512": "c06b123d29da1e673fac6c11132eeebc0ed12ce28473bc9dfa84d4780228e833aabd017893173b3822ed12aac08aa62a5216ca960dc558b43df3fa050b892a20",
+          "sha256": "25af6bacfeb831e1669e2ef41bc3c3657a41d1be574863492341db2faf7e7609",
+          "sha1": "498b91d08656b355f36ad30a3cefb80db064202d",
+          "md5": "48d5bde778db7681549811d46fffc6dd"
         }
       ]
     }
